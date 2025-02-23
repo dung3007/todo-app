@@ -1,8 +1,6 @@
-# React + Vite
+// Project sử dụng node version 18.18.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+B1: clone code: https://github.com/dung3007/todo-app.git
+B2: mở project
+B3: chạy npm install để cài đặt các package
+B4: chạy dự án: npm run dev
